@@ -17,5 +17,6 @@
     "url":"http://github.com/kriszyp/dbind"
   },
   "main": "./bind",
-  "dojoBuild": "package.js"
+  "dojoBuild": "package.js",
+  "version": "0.0.1"
 }
